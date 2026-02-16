@@ -67,6 +67,7 @@
 "isHost": "true",
 "online": "true",
 "import": false
+},
 {
 "name": "CAPITULO 6",
 "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
@@ -81,5 +82,6 @@
 }
 ]
 }
+
 
 
